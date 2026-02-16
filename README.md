@@ -1,20 +1,20 @@
 # 👋 ¡Hola! Soy **Pablo José Herrera Cuevas**
 
-### 💻Estudiante de Desarrollador Web | Apasionado por la tecnología  
-- 🎯 En constante aprendizaje de tecnologías backend y frontend  
-- 🚀 Motivado por crear soluciones útiles y mejorar mis habilidades  
-- 🌍 Apasionado por el mundo del desarrollo y la innovación
+
+### 💻 Estudiante de Desarrollo Web | Full Stack en crecimiento  
+- 🎯 En constante aprendizaje de nuevas tecnologías  
+- 🚀 Actualmente desarrollando una **aplicación para registrar usuarios de una carrera**, gestionar **inscripciones pagadas**, controlar dorsales y realizar **venta de inscripciones**  
+- 🌱 Enfocado en buenas prácticas y construcción de aplicaciones útiles
 
 ---
 
 ## 🧩 Sobre mí
-Soy un recien titulado en desarrollador de aplicaciones web (DAW) con interés en crear aplicaciones modernas, eficientes y fáciles de usar.  
-Me gusta desarrollar proyectos prácticos, experimentar con nuevas tecnologías y mejorar mis habilidades día a día.
+Soy desarrollador web con interés en construir aplicaciones completas: desde el backend con lógica sólida hasta interfaces limpias y modernas.  
+Me encanta aprender herramientas nuevas, optimizar procesos y aportar valor real con cada proyecto.
 
 ---
 
 ## 🛠️ Tecnologías
-
 
 
 ### 🔹 **Backend**
@@ -39,10 +39,7 @@ Me gusta desarrollar proyectos prácticos, experimentar con nuevas tecnologías 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-
-
 ---
-
 
 ### **IDEs que utilizo**
 ![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -55,7 +52,6 @@ Me gusta desarrollar proyectos prácticos, experimentar con nuevas tecnologías 
 - Arquitectura backend con servicios REST  
 - Diseño limpio y responsive  
 - Patrones de diseño y buenas prácticas  
-
 
 ---
 
