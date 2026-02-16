@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **[Pablo José Herrera Cuevas]**
+# 👋 ¡Hola! Soy **Pablo José Herrera Cuevas**
 
 ### 💻Estudiante de Desarrollador Web | Apasionado por la tecnología  
 - 🎯 En constante aprendizaje de tecnologías backend y frontend  
