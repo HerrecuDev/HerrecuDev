@@ -16,27 +16,30 @@ Me gusta desarrollar proyectos prácticos, experimentar con nuevas tecnologías 
 ## 🛠️ Tecnologías
 
 
+
 ### 🔹 **Backend**
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+**CRUDs**, servicios REST, MVC y desarrollo de APIs.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-- Creación de **CRUDs**, servicios REST y estructura MVC
+---
 
 ### 🔹 **Frontend**
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+**Especialización en CSS Flexbox y Grid** para maquetación adaptable y moderna.  
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flexbox](https://img.shields.io/badge/Flexbox-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![CSS%20Grid](https://img.shields.io/badge/CSS%20Grid-2965F1?style=for-the-badge&logo=csswizardry&logoColor=white)
+---
 
-- Diseño con **Flexbox** y **CSS Grid**
+### 🔹 **Herramientas y Control de versiones**
 
+ttps://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white  
+https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white  
+https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white  
 
-### **Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
