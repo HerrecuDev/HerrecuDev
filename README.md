@@ -36,12 +36,18 @@ Me gusta desarrollar proyectos prácticos, experimentar con nuevas tecnologías 
 
 ### 🔹 **Herramientas y Control de versiones**
 
-ttps://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white  
-https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white  
-https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white  
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 ---
+
+
+### **IDEs que utilizo**
+![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)  
+![](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 
 
 ## 🎯 Intereses
